@@ -5,3 +5,5 @@ Done changes for file README.md in GitHub
 Checking
 Learning Pull Request
 Change from branch A
+Change from branch B
+
